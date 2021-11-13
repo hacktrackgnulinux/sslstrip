@@ -1,0 +1,2 @@
+setuptools==58.5.3
+Twisted==21.7.0
