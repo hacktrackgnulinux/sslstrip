@@ -1,7 +1,7 @@
 sslstrip is a MITM tool that implements Moxie Marlinspike's SSL stripping attacks.
 
 Ported from Python v2 to v3 by Jay Townsend (theHarvester and Discover).
-[![Twitter Follow](https://img.shields.io/twitter/follow/jay_townsend1.svg?style=social&label=Follow)](https://twitter.com/jay_townsend1) Jay "L1ghtn1ng" Townsend @jay_townsend1
+* [![Twitter Follow](https://img.shields.io/twitter/follow/jay_townsend1.svg?style=social&label=Follow)](https://twitter.com/jay_townsend1) Jay "L1ghtn1ng" Townsend 
 
 Installing:
    pip3 install -r requirements.txt
