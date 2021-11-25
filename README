@@ -19,8 +19,5 @@ Running:
 	
    3. Run sslstrip with the options you prefer.
 
-   4. Run arpspoof to redirect traffic to your host (as root):
-      arpspoof -i <your network interface> -t <target IP> <router IP>
-
-More Info:
-   http://www.thoughtcrime.org/software/sslstrip/
+	4) Run arpspoof to redirect traffic to your machine (as root):
+	   arpspoof -i <yourNetworkdDevice> -t <yourTarget> <theRoutersIpAddress>

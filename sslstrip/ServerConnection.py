@@ -18,8 +18,9 @@
 import gzip
 import logging
 import re
+from io import StringIO
 from twisted.web.http import HTTPClient
-from URLMonitor import URLMonitor
+from .URLMonitor import URLMonitor
 
 
 class ServerConnection(HTTPClient):
